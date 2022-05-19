@@ -11,6 +11,9 @@
 ## Arquitecture
 Project made with 100% python.
 
+## To do
+The counter does not work as the nonogram mechanics. Is only the total count of the row/column. 
+
 ## Configuration
 At the start of the gen.py file, there're some variables that you can play with: 
 
