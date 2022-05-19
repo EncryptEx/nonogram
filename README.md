@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img src="" alt="Coin" height="60"/></a></p>
+<p align="center"><a href="#"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.chessprogramming.org%2Fimages%2F9%2F92%2FNonogram.jpg&f=1&nofb=1" alt="nonogram" height="60"/></a></p>
 <h1 align="center">Nonogram</h1>
 <p align="center">The logic-puzzle based on grids.</p>
 <p align="center">
